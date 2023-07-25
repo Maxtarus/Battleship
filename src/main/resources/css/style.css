@@ -1,0 +1,25 @@
+.game-grid-cell-water {
+    -fx-background-color: Blue;
+    -fx-border-color: black;
+
+}
+
+.game-grid-cell-ship {
+    -fx-background-color: Red;
+    -fx-border-color: black;
+}
+
+.game-grid-cell-miss {
+    -fx-background-color: white;
+    -fx-border-color: black;
+}
+
+.game-grid-cell-hit {
+    -fx-background-color: grey;
+    -fx-border-color: black;
+}
+
+.game-grid-cell-kill {
+    -fx-background-color: black;
+    -fx-border-color: black;
+}
